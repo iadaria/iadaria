@@ -16,5 +16,5 @@ Portfolio:
 
 Other experience:
 
-- I have higher education: graduated from Transbaikal State University, specializing in Applied Computer Science in 2010.
+- I have higher education: graduated from Transbaikal State University, specializing in Applied Computer Science.
 - For several years I used to write diplomas to order on technical specialties, mathematics, computer science, when there was no ChatGPT.
